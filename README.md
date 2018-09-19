@@ -28,10 +28,16 @@
 > 開朗、好溝通、接納不同意見
 
 ## 小考重點
-+ 09/26 (page 2,4,9)
++ 09/26 (page 2,4,9,10,14,15,16)
 1. **Intellectual Capital** is the collective brainpower or shared knowkledge of a workforce.
 2. **Competency** represents 
 3. 
 4. **Ethics** sets 
 5. **Performance** **effectiveness** 效果
 6. **Performance** **effciency** 效率
+7. A **Manager** is a person who supports, activates, and is reposible for the work of others.
+8. **Planning** is the process of setting goals and objectives and making plans to accomplish them.
+9. **Organizing** is the process of defining and assigning tasks, allocating resources, and providing resource support.
+10. **Leading** is a process 
+12. **Controlling**
+13. **Management** **Roles** (p.16)
