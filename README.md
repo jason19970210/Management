@@ -16,5 +16,13 @@
 `employer` `雇主`  
 
 1. How do these findings compare with your own carrer perferences or what you hear from people you know ?
+> 
 2. How might this evidence influence your approach to seeking a job ?
+> 在對於選擇工作上，能有
 3. What characteristics and practices define your ideal empolyer ?
+> 開朗、好溝通、接納不同意見
+
+## 考試重點
++ 09/26 (page 2,4)
+1. **intellectual Capital** is the collective brainpower or shared knowkledge of a workforce.
+2. **Competency** represents 
