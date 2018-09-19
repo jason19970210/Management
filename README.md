@@ -14,6 +14,6 @@
 `culture fit` `適合我的文化形態`  
 `inclusive` `包容性(種族問題等)`  
 
-    + 1. How do these findings compare with your own carrer perferences or what you hear from people you know ?
-    + 2. How might this evidence influence your approach to seeking a job ?
-    + 3. What characteristics and practices define your ideal empolyer ?
+  + 1. How do these findings compare with your own carrer perferences or what you hear from people you know ?
+  + 2. How might this evidence influence your approach to seeking a job ?
+  + 3. What characteristics and practices define your ideal empolyer ?
