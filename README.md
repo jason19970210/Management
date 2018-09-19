@@ -28,7 +28,7 @@
 > 開朗、好溝通、接納不同意見
 
 ## 小考重點
-+ 09/26 (page 2,4,9,10,14,15,16,17,18)
++ 09/26 (page 2,4,9,10,14,15,16,17,18,19)
 1. **Intellectual Capital** is the collective brainpower or shared knowkledge of a workforce.
 2. **Competency** represents 
 3. 
@@ -41,6 +41,7 @@
 10. **Leading** is a process 
 11. **Controlling**
 12. **Management** **Roles** (p.16)
-13. **Managerial** **Agendas** **and** **Networks** (p.17 右側三項)
+13. **Managerial** **Agendas** **and** **Networks** (p.17 右側三項) Activity
 14. A **skill** is the ability to translate knowledge into action
 15. p.18 image
+16. Conceptual Skill / Critical Thinking Skill (point 1,2,3)
