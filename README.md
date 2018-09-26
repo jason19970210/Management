@@ -46,7 +46,8 @@
     + Decisional Roles
 13. **Managerial** **Agendas** **and** **Networks** (p.17 右側三項) Activity
 14. A **skill** is the ability to translate knowledge into action that results in desired performance.
-15. + proficiency 熟練
+15. figure 1.6
+    + proficiency 熟練
     ![43_figure1.6](https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/43.jpg)
 16. **Conceptual Skill** is the ability to think analytically to diagnose and solve complex problems.
     + the capacity to break problems into smaller parts
