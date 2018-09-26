@@ -1,7 +1,7 @@
 # Management
 ## CH1 The Management Process
 
-## 名詞解釋
+### 名詞解釋
 `millennials` `千禧世代`  
 `job loyalty` `工作忠誠度`  
 `culture fit` `適合我的文化形態`  
@@ -12,7 +12,7 @@
 `discrimation` `歧視`  
 
 
-## 自我評估
+### 自我評估
 
 1. How do these findings compare with your own carrer perferences or what you hear from people you know ?
     > 
@@ -21,7 +21,7 @@
 3. What characteristics and practices define your ideal empolyer ?
     > 開朗、好溝通、接納不同意見
 
-## Self-Test
+### Self-Test
 \- [d,b,a,d,b,a,c,c,b,a,c,b,d,b,c]  
 \# [d,c,a,b,a,a,c,a,b,b,c,a,b,c,c]  
 Results: 7/15  
@@ -30,7 +30,7 @@ Results: 7/15
 12) minority 少數族群、discrimation 歧視
 
 
-## 小考重點
+### 小考重點
 ### 09/26 (page 2,4,9,10,14,15,16,17,18,19)
 1. **Intellectual Capital** is the _collective brainpower_ or _shared knowkledge_ of a workforce.
 2. **Competency** represents your _personal talents_ or _job-related_ capabilities.
