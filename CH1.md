@@ -44,9 +44,9 @@ Results: 7/15
 10. **Leading** is a process of arousing ehthusiasm and inspiring efforts to achieve goals.
 11. **Controlling** is the process of _measuring performance_ and taking action to ensure desired results.
 12. **Management** **Roles**
-    + _Interpersonal Roles_
-    + _Informaiotnal Roles_
-    + _Decisional Roles_
+    + _Interpersonal Roles_ 人際
+    + _Informaiotnal Roles_ 資訊
+    + _Decisional Roles_ 決策
 13. **Managerial** **Agendas** **and** **Networks** (p.17 右側三項) Activity
     + Agenda Setting
     + Networking
