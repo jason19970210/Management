@@ -30,7 +30,7 @@
 
 ## Self-Test
 ### Ch1.
-[d,b,a,d,b,a,c,c,b,a,c,b,d,b,c]
+[d,b,a,d,b,a,c,c,b,a,c,b,d,b,c]  
 \# [d,c,a,b,a,a,c,a,b,b,c,a,b,c,c]
 
 
