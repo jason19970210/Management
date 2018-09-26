@@ -63,3 +63,12 @@ Results: 7/15
     + the capacity to break problems into smaller parts
     + relations between the parts
     + recognize the implications of any one problem for other
+
+
+#### p22 Supervising Old Friends
+1. How can you best deal with this situation right from the start ?
+    > 早安、說明進度、分配工作  
+
+    > 第一個衝突點：工作量  
+    > 第二個衝突點：時間管理  
+2. What will you do to earn the respect of everyone under your supervision and set the foundation for what will become a well-regarded and high-performing work team ?
