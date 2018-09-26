@@ -20,12 +20,14 @@
 
 ## 自我評估
 
+### Ch1.
+
 1. How do these findings compare with your own carrer perferences or what you hear from people you know ?
-> 
+    > 
 2. How might this evidence influence your approach to seeking a job ?
-> 在對於選擇工作上，能有
+    > 在對於選擇工作上，能有
 3. What characteristics and practices define your ideal empolyer ?
-> 開朗、好溝通、接納不同意見
+    > 開朗、好溝通、接納不同意見
 
 ## 小考重點
 ### 09/26 (page 2,4,9,10,14,15,16,17,18,19)
