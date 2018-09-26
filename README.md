@@ -34,7 +34,7 @@
 3. **Commitment** represents how hard you work to apply your talents and capabilities to important tasks.
 4. **Ethics** (道德標準) sets moral standards of what is 'good' and 'right' in one's behavior.
 5. **Performance** **effectiveness** (效果) is an output measure of task or goal accomplishment.
-6. **Performance** **effciency** (效率) is an input measure of resource cost associated with goal accomplishment.
+6. **Performance** **efficiency** (效率) is an input measure of resource cost associated with goal accomplishment.
 7. A **Manager** is a person who supports, activates, and is reposible for the work of others.
 8. **Planning** is the process of setting goals and objectives and making plans to accomplish them.
 9. **Organizing** is the process of defining and assigning tasks, allocating resources, and providing resource support.
