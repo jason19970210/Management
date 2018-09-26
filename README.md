@@ -8,14 +8,15 @@
 
 
 ## 名詞解釋
-+ page 3  
++ Ch1
 `millennials` `千禧世代`  
 `job loyalty` `工作忠誠度`  
 `culture fit` `適合我的文化形態`  
 `inclusive` `包容性(種族問題等)`  
 `employer` `雇主`  
-+ page 4  
 `reshoring` `產業回歸(USA,German)`  
+`minority` `少數族群`  
+`discrimation` `歧視`  
 
 
 ## 自我評估
@@ -31,7 +32,11 @@
 ## Self-Test
 ### Ch1.
 [d,b,a,d,b,a,c,c,b,a,c,b,d,b,c]  
-\# [d,c,a,b,a,a,c,a,b,b,c,a,b,c,c]
+\# [d,c,a,b,a,a,c,a,b,b,c,a,b,c,c]  
+Results: 7/15  
+2) p.12  
+4) accountability 有責任、義務  
+12) minority 少數族群、discrimation 歧視
 
 
 ## 小考重點
