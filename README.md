@@ -38,10 +38,13 @@
 7. A **Manager** is a person who supports, activates, and is reposible for the work of others.
 8. **Planning** is the process of setting goals and objectives and making plans to accomplish them.
 9. **Organizing** is the process of defining and assigning tasks, allocating resources, and providing resource support.
-10. **Leading** is a process 
-11. **Controlling**
+10. **Leading** is a process of arousing ehthusiasm and inspiring efforts to achieve goals.
+11. **Controlling** is the process of measuring performance and taking action to ensure desired results.
 12. **Management** **Roles** (p.16)
 13. **Managerial** **Agendas** **and** **Networks** (p.17 右側三項) Activity
-14. A **skill** is the ability to translate knowledge into action
-15. p.18 image
-16. Conceptual Skill / Critical Thinking Skill (point 1,2,3)
+14. A **skill** is the ability to translate knowledge into action that results in desired performance.
+15. ![43](https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/43.jpg)
+16. **Conceptual Skill** is the ability to think analytically to diagnose and solve complex problems.
+    + the capacity to break problems into smaller parts
+    + relations between the parts
+    + recognize the implications of any one problem for other
