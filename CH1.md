@@ -14,12 +14,12 @@
 
 ### 自我評估
 
-1. How do these findings compare with your own carrer perferences or what you hear from people you know ?
+1. How do these findings compare with your own carrer preferences or what you hear from people you know ?
     > 
 2. How might this evidence influence your approach to seeking a job ?
-    > 在對於選擇工作上，能有
+    > 以環境、產業為基礎，加上職場氛圍與素質為考量
 3. What characteristics and practices define your ideal empolyer ?
-    > 開朗、好溝通、接納不同意見
+    > 開朗、好溝通、接納不同意見、思想完善周全
 
 ### Self-Test
 \- [d,b,a,d,b,a,c,c,b,a,c,b,d,b,c]  
