@@ -28,7 +28,7 @@
 > 開朗、好溝通、接納不同意見
 
 ## 小考重點
-+ 09/26 (page 2,4,9,10,14,15,16,17,18,19)
+### 09/26 (page 2,4,9,10,14,15,16,17,18,19)
 1. **Intellectual Capital** is the collective brainpower or shared knowkledge of a workforce.
 2. **Competency** represents your personal talents or job-related capabilities.
 3. **Commitment** represents how hard you work to apply your talents and capabilities to important tasks.
