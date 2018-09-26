@@ -14,7 +14,7 @@
 `culture fit` `適合我的文化形態`  
 `inclusive` `包容性(種族問題等)`  
 `employer` `雇主`  
-+ page 4
++ page 4  
 `reshoring` `產業回歸(USA,German)`  
 
 
