@@ -53,7 +53,7 @@ Results: 7/15
     + Social Capital
 14. A **skill** is the ability to _translate knowledge_ into action that results in desired performance.
 15. figure 1.6
-    ![43_figure1.6](https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/43.jpg)
+    ![43](https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/43.jpg)
 16. **Essential** **Managerial** **Skills**
     + Conceptual Skill
     + Human Skill
