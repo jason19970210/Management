@@ -19,7 +19,6 @@
 
 
 ## 自我評估
-
 ### Ch1.
 
 1. How do these findings compare with your own carrer perferences or what you hear from people you know ?
@@ -28,6 +27,12 @@
     > 在對於選擇工作上，能有
 3. What characteristics and practices define your ideal empolyer ?
     > 開朗、好溝通、接納不同意見
+
+## Self-Test
+### Ch1.
+[d,b,a,d,b,a,c,c,b,a,c,b,d,b,c]
+\# [d,c,a,b,a,a,c,a,b,b,c,a,b,c,c]
+
 
 ## 小考重點
 ### 09/26 (page 2,4,9,10,14,15,16,17,18,19)
