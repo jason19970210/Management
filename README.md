@@ -32,7 +32,7 @@
 1. **Intellectual Capital** is the collective brainpower or shared knowkledge of a workforce.
 2. **Competency** represents your personal talents or job-related capabilities.
 3. **Commitment** represents how hard you work to apply your talents and capabilities to important tasks.
-4. **Ethics** sets moral standards of what is 'good' and 'right' in one's behavior.
+4. **Ethics** (道德標準) sets moral standards of what is 'good' and 'right' in one's behavior.
 5. **Performance** **effectiveness** (效果) is an output measure of task or goal accomplishment.
 6. **Performance** **effciency** (效率) is an input measure of resource cost associated with goal accomplishment.
 7. A **Manager** is a person who supports, activates, and is reposible for the work of others.
