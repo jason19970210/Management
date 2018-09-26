@@ -53,12 +53,12 @@ Results: 7/15
     + Social Capital
 14. A **skill** is the ability to _translate knowledge_ into action that results in desired performance.
 15. figure 1.6
-    + proficiency 熟練
     ![43_figure1.6](https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/43.jpg)
 16. **Essential** **Managerial** **Skills**
     + Conceptual Skill
     + Human Skill
     + Technical Skill
+    > + proficiency 熟練
 17. **Conceptual Skill** is the ability to _think analytically_ to _diagnose_ and _solve complex problems_.
     + the capacity to break problems into smaller parts
     + relations between the parts
