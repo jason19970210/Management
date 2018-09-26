@@ -34,7 +34,7 @@ Results: 7/15
 ### 09/26 (page 2,4,9,10,14,15,16,17,18,19)
 1. **Intellectual Capital** is the _collective brainpower_ or _shared knowkledge_ of a workforce.
 2. **Competency** represents your _personal talents_ or _job-related_ capabilities.
-3. **Commitment** represents how hard you work to apply your talents and capabilities to important tasks.
+3. **Commitment** (投入)  represents how hard you work to apply your talents and capabilities to important tasks.
 4. **Ethics** (道德標準) sets _moral standards_ of what is 'good' and 'right' in one's _behavior_.
 5. **Performance** **effectiveness** (效果) is an output measure of task or goal accomplishment.
 6. **Performance** **efficiency** (效率) is an input measure of _resource cost_ associated with goal accomplishment.
@@ -55,7 +55,11 @@ Results: 7/15
 15. figure 1.6
     + proficiency 熟練
     ![43_figure1.6](https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/43.jpg)
-16. **Conceptual Skill** is the ability to _think analytically_ to _diagnose_ and _solve complex problems_.
+16. **Essential** **Managerial** **Skills**
+    + Conceptual Skill
+    + Human Skill
+    + Technical Skill
+17. **Conceptual Skill** is the ability to _think analytically_ to _diagnose_ and _solve complex problems_.
     + the capacity to break problems into smaller parts
     + relations between the parts
     + recognize the implications of any one problem for other
