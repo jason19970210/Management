@@ -1,10 +1,10 @@
 # Management
 
 + Part 1 Management
-+ Part 2 
-+ Part 3
-+ Part 4
-+ Part 5
++ Part 2 Environment
++ Part 3 Planning & Controlling
++ Part 4 Organizing
++ Part 5 Leading
 
 
 ## 名詞解釋
