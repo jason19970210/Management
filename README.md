@@ -45,6 +45,9 @@
     + Informaiotnal Roles
     + Decisional Roles
 13. **Managerial** **Agendas** **and** **Networks** (p.17 右側三項) Activity
+    + Agenda Setting
+    + Networking
+    + Social Capital
 14. A **skill** is the ability to translate knowledge into action that results in desired performance.
 15. figure 1.6
     + proficiency 熟練
