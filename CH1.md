@@ -53,7 +53,7 @@ Results: 7/15
     + Social Capital
 14. A **skill** is the ability to _translate knowledge_ into action that results in desired performance.
 15. figure 1.6
-    ![43](https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/43.jpg)
+    <div align=center><img width="150" height="150" src="https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/43.jpg"/></div>
 16. **Essential** **Managerial** **Skills**
     + Conceptual Skill
     + Human Skill
@@ -72,3 +72,8 @@ Results: 7/15
     > 第一個衝突點：工作量  
     > 第二個衝突點：時間管理  
 2. What will you do to earn the respect of everyone under your supervision and set the foundation for what will become a well-regarded and high-performing work team ?
+
+
+#### 個性盤點
++ Characteristic 後天個性
++ Temperament 先天性格
