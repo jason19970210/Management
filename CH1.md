@@ -79,31 +79,31 @@ Results: 7/15
 + Q1.2 Why?
 > Nowadays, world is connected with the Internet. People and people chat online, we buy things online, and so on.
 + Q1.3 Most like contents
-> 
+> All.
 + Q1.4 What challenges?
 > The knowledge are always be updated, when i have read this paper, there will be someone publish the newest technology for improving the method we used before.
 
 + Q2.1 What is your first prospective job
-> RD, ID, Engineer
+> RD, ID Engineer
 + Q2.2 Baseline requirement for the job
 > Technology Knowledge, Leadership, Self-Management
 + Q2.3 What classes would you need ?
 > Computer Networking, Communication Principle
 + Q2.4 What internship should you participate ?
-> Networking, Building 
+> Networking, Software-Engineer
 + Q2.5 What tests / certificates necessary ?
-> 
+> Networking Certificates
 + Q2.6 How much time needed for preparation ?
 > Maybe 1-2 years
 
 + Q3.1 What are the required actions ?
-> 
+> Studying, Building side projects, ...
 + Q3.2 How an I going to make the plan ?
 > Actually, in my opinion, the chances are provided to those who are well-prepared. What I should do is forward to the goal with well-preparing.
 + Q3.3 What are the control mechanisms for the plan ? (Set the check point to make sure the plan can be done)
-> 
+> I will set the check point each 3 months
 + Q3.4 What are the others constraints or considerations ?
-> 
+> Other subjects which are not that important for the future.
 
 
 #### 個性盤點
