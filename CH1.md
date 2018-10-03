@@ -107,6 +107,18 @@ Results: 7/15
 #### Actually No Comments with the group 
 
 ----
+#### p23 Team Leader Faces Test
+1. The Facts
+    + not getting enough support from you as his team leader
+    + accused you of playing favorites in assikgning projects
+    + not giving him the respect he deserved for his seniority and expertise
+2. Stakeholder involved 相關人員
+    + Whole team group members, supervisors
+3. Direct Confrontation ? Or not ?
+    + Not direct confrontation
+4. Individual or team as a whole
+    + Individual as well then make a little group chatting
+
 
 #### 個性盤點
 + Characteristic 後天個性
