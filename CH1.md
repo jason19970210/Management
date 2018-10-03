@@ -104,7 +104,9 @@ Results: 7/15
 > I will set the check point each 3 months
 + Q3.4 What are the others constraints or considerations ?
 > Other subjects which are not that important for the future.
+#### Actually No Comments with the group 
 
+----
 
 #### 個性盤點
 + Characteristic 後天個性
