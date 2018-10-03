@@ -110,7 +110,7 @@ Results: 7/15
 #### p23 Team Leader Faces Test
 1. The Facts
     + not getting enough support from you as his team leader
-    + accused you of playing favorites in assikgning projects
+    + accused you of playing favorites in assigning projects
     + not giving him the respect he deserved for his seniority and expertise
 2. Stakeholder involved 相關人員
     + Whole team group members, supervisors
