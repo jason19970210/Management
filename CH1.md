@@ -73,6 +73,38 @@ Results: 7/15
     > 第二個衝突點：時間管理  
 2. What will you do to earn the respect of everyone under your supervision and set the foundation for what will become a well-regarded and high-performing work team ?
 
+#### P23 The Amazing Great Job Race
++ Q1.1 Most enjoying class
+> Computer Science & Networking
++ Q1.2 Why?
+> Nowadays, world is connected with the Internet. People and people chat online, we buy things online, and so on.
++ Q1.3 Most like contents
+> 
++ Q1.4 What challenges?
+> The knowledge are always be updated, when i have read this paper, there will be someone publish the newest technology for improving the method we used before.
+
++ Q2.1 What is your first prospective job
+> RD, ID, Engineer
++ Q2.2 Baseline requirement for the job
+> Technology Knowledge, Leadership, Self-Management
++ Q2.3 What classes would you need ?
+> Computer Networking, Communication Principle
++ Q2.4 What internship should you participate ?
+> Networking, Building 
++ Q2.5 What tests / certificates necessary ?
+> 
++ Q2.6 How much time needed for preparation ?
+> Maybe 1-2 years
+
++ Q3.1 What are the required actions ?
+> 
++ Q3.2 How an I going to make the plan ?
+> Actually, in my opinion, the chances are provided to those who are well-prepared. What I should do is forward to the goal with well-preparing.
++ Q3.3 What are the control mechanisms for the plan ? (Set the check point to make sure the plan can be done)
+> 
++ Q3.4 What are the others constraints or considerations ?
+> 
+
 
 #### 個性盤點
 + Characteristic 後天個性
